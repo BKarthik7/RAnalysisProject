@@ -3,6 +3,7 @@ run = "R -s -f main.r"
 entrypoint = "main.r"
 
 hidden = [".Rprofile", "Rconfig.json", "Rconfig.lock.json"]
+modules = ["python-3.10"]
 
 [env]
 R_LIBS_USER = "$REPL_HOME/.config/R"
