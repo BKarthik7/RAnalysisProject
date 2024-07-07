@@ -1,0 +1,94 @@
+StudentID,Age,Gender,Role,BenefitStatus,UsageFrequency,PerceivedImpact,DataProtectionConcerns,BiasConcerns,TrainingNeeds,AutomationEfficiency
+1,17,Other,Student,Not Benefited,High,Moderate,Low,Low,Moderate,High
+2,15,Other,Student,Not Benefited,Low,Low,Low,Low,Low,High
+3,18,Male,Developer,Not Benefited,Low,High,High,Moderate,Low,High
+4,19,Male,Developer,Benefited,High,Moderate,Low,Low,High,Low
+5,13,Other,Student,Benefited,Low,Moderate,High,Moderate,Low,High
+6,16,Female,Student,Not Benefited,High,Moderate,Moderate,Moderate,Moderate,High
+7,17,Male,Researcher,Not Benefited,High,Low,High,Low,High,High
+8,19,Other,Student,Benefited,Moderate,Moderate,High,Low,Low,High
+9,14,Other,Researcher,Not Benefited,Low,High,Moderate,Low,High,Moderate
+10,17,Other,Student,Not Benefited,Low,Moderate,High,High,Low,Low
+11,19,Female,Researcher,Not Benefited,High,Moderate,Low,Low,Low,High
+12,16,Other,Developer,Benefited,Moderate,High,Low,Moderate,Low,High
+13,21,Other,Student,Benefited,High,Moderate,High,Low,Moderate,High
+14,18,Other,Student,Benefited,Low,Low,Low,High,Moderate,Low
+15,14,Other,Student,Not Benefited,Low,Low,High,Low,High,Moderate
+16,13,Male,Student,Not Benefited,Low,Low,Low,High,Low,Low
+17,15,Male,Researcher,Not Benefited,Low,High,Low,High,Low,Moderate
+18,16,Other,Student,Benefited,Moderate,Moderate,High,Low,Moderate,High
+19,17,Female,Developer,Not Benefited,High,Low,Low,Moderate,Low,High
+20,19,Male,Developer,Not Benefited,High,High,High,High,Moderate,Low
+21,14,Other,Student,Not Benefited,Low,Moderate,Low,Low,Low,Low
+22,19,Male,Developer,Not Benefited,High,High,Low,Low,High,Moderate
+23,19,Male,Student,Benefited,High,Low,Moderate,Moderate,Low,Moderate
+24,16,Female,Student,Benefited,Moderate,Low,Moderate,High,Low,Low
+25,16,Other,Developer,Not Benefited,High,Low,High,High,Moderate,Moderate
+26,14,Other,Student,Benefited,Low,High,Moderate,Low,Low,Low
+27,19,Female,Developer,Benefited,High,High,High,Low,Low,Moderate
+28,19,Female,Researcher,Not Benefited,High,Low,Moderate,Moderate,Moderate,Low
+29,16,Other,Student,Not Benefited,Low,High,Low,Moderate,High,Low
+30,19,Other,Researcher,Benefited,Moderate,Low,High,High,High,Low
+31,14,Female,Developer,Not Benefited,Low,Low,High,High,Moderate,Moderate
+32,19,Male,Researcher,Benefited,High,Moderate,Low,Low,Moderate,Moderate
+33,13,Male,Researcher,Not Benefited,Low,High,High,High,Moderate,Moderate
+34,17,Female,Developer,Benefited,Moderate,Low,High,Moderate,Moderate,Low
+35,17,Male,Researcher,Not Benefited,High,Low,Moderate,Moderate,Moderate,Moderate
+36,14,Female,Researcher,Benefited,Low,High,High,Low,High,Moderate
+37,17,Male,Developer,Benefited,Moderate,Moderate,Low,Moderate,High,Low
+38,16,Male,Researcher,Benefited,High,Moderate,Moderate,Moderate,Moderate,High
+39,13,Other,Developer,Not Benefited,Low,Low,Moderate,Moderate,Low,Low
+40,19,Other,Researcher,Benefited,Moderate,High,Low,Moderate,Moderate,Moderate
+41,16,Male,Developer,Benefited,Moderate,Moderate,Low,Low,Low,Low
+42,15,Male,Developer,Not Benefited,Low,High,Moderate,Low,Moderate,High
+43,19,Other,Researcher,Not Benefited,High,High,High,High,Moderate,Low
+44,16,Other,Researcher,Benefited,High,Low,Moderate,Moderate,High,Moderate
+45,18,Other,Researcher,Benefited,Moderate,Moderate,Low,High,Low,High
+46,14,Female,Student,Not Benefited,Moderate,Low,Moderate,Low,Low,Moderate
+47,16,Male,Student,Not Benefited,High,Moderate,Low,Low,High,High
+48,13,Other,Student,Not Benefited,Low,Moderate,Moderate,Low,High,High
+49,15,Male,Developer,Not Benefited,Moderate,Moderate,High,Low,High,Low
+50,17,Female,Researcher,Not Benefited,Moderate,Moderate,Moderate,Low,High,Low
+51,14,Female,Developer,Benefited,Moderate,Moderate,Moderate,Low,Low,Moderate
+52,19,Other,Student,Not Benefited,High,High,Low,Low,Low,Low
+53,13,Female,Researcher,Benefited,Low,Low,Low,Moderate,Moderate,Low
+54,21,Male,Developer,Benefited,Moderate,High,Low,High,Moderate,High
+55,16,Other,Researcher,Benefited,Moderate,Moderate,Moderate,Low,High,Low
+56,20,Male,Developer,Not Benefited,High,Low,High,Moderate,High,High
+57,18,Male,Researcher,Benefited,High,Moderate,Low,Moderate,High,High
+58,22,Female,Student,Benefited,High,Low,Low,High,Moderate,High
+59,18,Female,Student,Not Benefited,Low,High,Moderate,Low,Moderate,Moderate
+60,17,Female,Researcher,Benefited,Moderate,Low,Low,High,Moderate,Moderate
+61,17,Female,Developer,Benefited,Moderate,Low,High,Low,Moderate,Moderate
+62,19,Female,Student,Not Benefited,Moderate,Low,High,Moderate,Moderate,High
+63,17,Other,Student,Benefited,Low,Low,Low,Moderate,Moderate,Moderate
+64,19,Male,Student,Benefited,High,Low,Low,Moderate,Moderate,Moderate
+65,18,Male,Researcher,Benefited,High,Moderate,Moderate,Moderate,High,Low
+66,21,Male,Researcher,Not Benefited,High,Low,High,High,High,Moderate
+67,20,Male,Developer,Not Benefited,High,Low,High,Low,High,Moderate
+68,17,Female,Developer,Not Benefited,High,High,Low,Low,High,High
+69,18,Male,Developer,Benefited,Moderate,Low,Moderate,High,Moderate,High
+70,17,Other,Researcher,Benefited,High,High,High,Low,Low,High
+71,19,Other,Researcher,Not Benefited,High,Moderate,High,Moderate,Moderate,High
+72,18,Male,Developer,Benefited,Moderate,Low,Moderate,Low,Low,High
+73,16,Male,Developer,Benefited,Moderate,High,Moderate,Moderate,High,High
+74,20,Other,Researcher,Not Benefited,High,High,High,High,Moderate,Moderate
+75,18,Other,Developer,Not Benefited,Moderate,Moderate,High,Low,High,High
+76,18,Female,Student,Benefited,Low,Low,Moderate,High,Moderate,High
+77,19,Other,Researcher,Benefited,High,Low,High,Low,High,Low
+78,17,Female,Developer,Benefited,Moderate,High,Low,Moderate,Low,Moderate
+79,16,Female,Researcher,Not Benefited,Low,Low,Low,High,Low,Moderate
+80,13,Female,Student,Not Benefited,Low,High,Moderate,Low,Low,Moderate
+81,18,Female,Researcher,Not Benefited,High,Low,Moderate,Moderate,Moderate,High
+82,15,Female,Researcher,Not Benefited,Low,High,Moderate,High,Low,High
+83,13,Male,Researcher,Benefited,Low,Low,Low,High,Moderate,High
+84,15,Other,Researcher,Not Benefited,Low,Moderate,High,Low,Low,Low
+85,20,Female,Student,Not Benefited,High,Low,Low,Low,Low,High
+86,19,Other,Researcher,Not Benefited,Moderate,Low,High,Low,Moderate,Low
+87,20,Other,Researcher,Not Benefited,High,Moderate,Low,Moderate,Moderate,Moderate
+88,19,Female,Developer,Not Benefited,High,Low,High,Low,Low,High
+89,15,Male,Researcher,Benefited,Low,Moderate,Low,High,Moderate,Low
+90,18,Female,Developer,Benefited,High,Low,Moderate,High,Low,Low
+91,19,Male,Student,Not Benefited,High,High,Low,Low,Moderate,High
+92,14,Other,Student,Benefited,Low,High,High,Low,High,Moderate
+93,17,Male,Student,Not Benefited,Moderate,Low,Low,High,High,Moderate
